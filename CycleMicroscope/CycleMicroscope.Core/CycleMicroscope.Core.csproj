@@ -42,15 +42,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\CountGreaterThanTAlgorithm.cs" />
+    <Compile Include="Algorithms\ICycleAlgorithm.cs" />
+    <Compile Include="Algorithms\PrefixMaxAlgorithm.cs" />
+    <Compile Include="Algorithms\PrefixSumAlgorithm.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Common\RelayCommand.cs" />
     <Compile Include="Enums\ExecutionMode.cs" />
     <Compile Include="Models\ArrayModel.cs" />
+    <Compile Include="Models\CycleState.cs" />
+    <Compile Include="Models\VerificationResult.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\ArrayGenerator.cs" />
+    <Compile Include="Services\IArrayGenerator.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Algorithms\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
