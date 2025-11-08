@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CycleMicroscope.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c2d3140019933eef0f3085f9cf80dbaf3a6ee4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d0d114a17a017826ac130863a50204ae9ef8873")]
 [assembly: System.Reflection.AssemblyProductAttribute("CycleMicroscope.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CycleMicroscope.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
