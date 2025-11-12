@@ -46,7 +46,6 @@
     <Compile Include="Algorithms\ICycleAlgorithm.cs" />
     <Compile Include="Algorithms\PrefixMaxAlgorithm.cs" />
     <Compile Include="Algorithms\PrefixSumAlgorithm.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Common\RelayCommand.cs" />
     <Compile Include="Enums\ExecutionMode.cs" />
     <Compile Include="Models\ArrayModel.cs" />
