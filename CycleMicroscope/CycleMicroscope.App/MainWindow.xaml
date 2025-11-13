@@ -3,10 +3,162 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:CycleMicroscope.App"
+        xmlns:vm="clr-namespace:CycleMicroscope.App.ViewModels"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+        Title="Cycle Microscope" Height="700" Width="1100"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.DataContext>
+        <vm:MainViewModel />
+    </Window.DataContext>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Управление -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="0,0,0,10">
+            <TextBlock Text="Алгоритм:" FontWeight="Bold" VerticalAlignment="Center" Margin="0,0,10,0"/>
+            <ComboBox SelectedItem="{Binding SelectedMode}" MinWidth="180">
+                <ComboBoxItem Content="PrefixSum"/>
+                <ComboBoxItem Content="CountGreaterThanT"/>
+                <ComboBoxItem Content="PrefixMax"/>
+            </ComboBox>
+
+            <Button Content="Сгенерировать" Command="{Binding GenerateArrayCommand}" Margin="10,0" Padding="8,4"/>
+            <Button Content="Инициализировать" Command="{Binding InitializeCommand}" Margin="5,0" Padding="8,4"/>
+            <Button Content="Шаг" Command="{Binding StepCommand}" Margin="5,0" Padding="8,4"/>
+            <Button Content="Всё" Command="{Binding RunAllCommand}" Margin="5,0" Padding="8,4"/>
+        </StackPanel>
+
+        <!-- Основное -->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Лево -->
+            <GroupBox Header="Параметры" Grid.Column="0" Margin="0,0,5,0">
+                <StackPanel Margin="10">
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <TextBlock Text="Размер:" Width="60"/>
+                        <TextBox Text="{Binding ArrayModel.Size, UpdateSourceTrigger=PropertyChanged}" Width="60"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <TextBlock Text="Min:" Width="60"/>
+                        <TextBox Text="{Binding ArrayModel.MinValue, UpdateSourceTrigger=PropertyChanged}" Width="60"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <TextBlock Text="Max:" Width="60"/>
+                        <TextBox Text="{Binding ArrayModel.MaxValue, UpdateSourceTrigger=PropertyChanged}" Width="60"/>
+                    </StackPanel>
+
+                    <!-- Порог T — только для Count > T -->
+                    <StackPanel Orientation="Horizontal" Margin="0,5" 
+                                Visibility="{Binding SelectedMode, Converter={StaticResource EnumToVisibilityConverter}, ConverterParameter=CountGreaterThanT}">
+                        <TextBlock Text="Порог T:" Width="60"/>
+                        <TextBox Text="{Binding ArrayModel.Threshold, UpdateSourceTrigger=PropertyChanged}" Width="60"/>
+                    </StackPanel>
+
+                    <Separator Margin="0,15"/>
+
+                    <TextBlock Text="{Binding AlgorithmName}" FontWeight="Bold" Margin="0,10"/>
+                    <TextBlock Text="{Binding AlgorithmDescription}" TextWrapping="Wrap"/>
+                    <TextBlock Text="Инвариант:" FontWeight="Bold" Margin="0,10,0,2"/>
+                    <TextBlock Text="{Binding AlgorithmInvariantWords}" TextWrapping="Wrap" FontStyle="Italic"/>
+                    <TextBlock Text="{Binding AlgorithmInvariantFormula}" TextWrapping="Wrap" FontFamily="Consolas"/>
+
+                    <Separator Margin="0,15"/>
+
+                    <TextBlock Text="Массив:" FontWeight="Bold" Margin="0,10,0,5"/>
+                    <TextBlock Text="{Binding ArrayModel.Array, StringFormat={}{0}}" 
+                               TextWrapping="Wrap" 
+                               Background="#F5F5F5" 
+                               Padding="5"
+                               FontFamily="Consolas" FontSize="12"/>
+                </StackPanel>
+            </GroupBox>
+
+            <!-- Право -->
+            <GroupBox Header="Состояние" Grid.Column="1" Margin="5,0,0,0">
+                <StackPanel Margin="10">
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <TextBlock Text="j =" Width="50"/>
+                        <TextBlock Text="{Binding CycleState.J}" FontWeight="Bold"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <TextBlock Text="res =" Width="50"/>
+                        <TextBlock Text="{Binding CycleState.Res}" FontWeight="Bold"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <TextBlock Text="Variant =" Width="70"/>
+                        <TextBlock Text="{Binding CycleState.VariantFunction}" FontWeight="Bold"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" Margin="0,10">
+                        <TextBlock Text="Инвариант до:" Width="100"/>
+                        <TextBlock>
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text" Value="✓"/>
+                                    <Setter Property="Foreground" Value="Green"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding CycleState.IsInvariantHeldBefore}" Value="False">
+                                            <Setter Property="Text" Value="✗"/>
+                                            <Setter Property="Foreground" Value="Red"/>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <TextBlock Text="Инвариант после:" Width="100"/>
+                        <TextBlock>
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text" Value="✓"/>
+                                    <Setter Property="Foreground" Value="Green"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding CycleState.IsInvariantHeldAfter}" Value="False">
+                                            <Setter Property="Text" Value="✗"/>
+                                            <Setter Property="Foreground" Value="Red"/>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" Margin="0,5">
+                        <TextBlock Text="Завершён:" Width="100"/>
+                        <TextBlock>
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text" Value="✓"/>
+                                    <Setter Property="Foreground" Value="Green"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding CycleState.IsCompleted}" Value="False">
+                                            <Setter Property="Text" Value="✗"/>
+                                            <Setter Property="Foreground" Value="Gray"/>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                    </StackPanel>
+                </StackPanel>
+            </GroupBox>
+        </Grid>
+
+        <!-- Результат -->
+        <GroupBox Header="Результат" Grid.Row="2" Margin="0,10,0,0">
+            <TextBlock Text="{Binding WPResult}" TextWrapping="Wrap" FontWeight="SemiBold" Margin="10"/>
+        </GroupBox>
     </Grid>
 </Window>

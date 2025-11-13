@@ -55,6 +55,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Converters\BoolToCheckmarkConverter.cs" />
+    <Compile Include="Converters\EnumToVisibilityConverter.cs" />
+    <Compile Include="ViewModels\MainViewModel.cs" />
+    <Compile Include="RelayCommand.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -93,6 +97,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CycleMicroscope.Core\CycleMicroscope.Core.csproj">
+      <Project>{c463a222-e1bf-4efe-8d83-7ea073163a7d}</Project>
+      <Name>CycleMicroscope.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CycleMicroscope.WP\CycleMicroscope.WP.csproj">
+      <Project>{377e1fb8-e9fe-46fd-84bb-9ec52db15f16}</Project>
+      <Name>CycleMicroscope.WP</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

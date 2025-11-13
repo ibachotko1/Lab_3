@@ -1,5 +1,5 @@
 ﻿using CycleMicroscope.WP.Expressions;
-using CycleMicroscope.WP.Logs;
+using CycleMicroscope.WP.Verification;
 
 namespace CycleMicroscope.WP.Statements
 {
