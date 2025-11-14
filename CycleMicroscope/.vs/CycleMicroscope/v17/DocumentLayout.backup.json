@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|d:\\desktop\\\u0430\u0440\u0438\u043D\u0430\\\u0433\u0440\u0443\u043F\u043F\u04303_\u043B\u04403\\cyclemicroscope\\cyclemicroscope.wp\\logss\\steptracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\logss\\steptracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|d:\\desktop\\\u0430\u0440\u0438\u043D\u0430\\\u0433\u0440\u0443\u043F\u043F\u04303_\u043B\u04403\\cyclemicroscope\\cyclemicroscope.app\\converters\\enumtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\converters\\enumtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|d:\\desktop\\\u0430\u0440\u0438\u043D\u0430\\\u0433\u0440\u0443\u043F\u043F\u04303_\u043B\u04403\\cyclemicroscope\\cyclemicroscope.wp\\verification\\steptracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\verification\\steptracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|d:\\desktop\\\u0430\u0440\u0438\u043D\u0430\\\u0433\u0440\u0443\u043F\u043F\u04303_\u043B\u04403\\cyclemicroscope\\cyclemicroscope.app\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|d:\\desktop\\\u0430\u0440\u0438\u043D\u0430\\\u0433\u0440\u0443\u043F\u043F\u04303_\u043B\u04403\\cyclemicroscope\\cyclemicroscope.app\\converters\\booltocheckmarkconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\converters\\booltocheckmarkconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.wp\\parserlogic\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\parserlogic\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.wp\\wpcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\wpcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.wp\\statements\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.wp\\statements\\sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.wp\\statements\\ifstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\ifstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.wp\\statements\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Logss\\StepTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CycleMicroscope.WP\\Logss\\StepTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.wp\\expressions\\unaryexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,26 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.wp\\parserlogic\\tokenreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\parserlogic\\tokenreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.wp\\parserlogic\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\parserlogic\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.wp\\statements\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.wp\\statements\\ifstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\ifstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.wp\\statements\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.wp\\wpcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\wpcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.wp\\expressions\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,20 +135,8 @@
       "RelativeMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|solutionrelative:cyclemicroscope.core\\algorithms\\countgreaterthantalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|d:\\desktop\\\u0430\u0440\u0438\u043D\u0430\\\u0433\u0440\u0443\u043F\u043F\u04303_\u043B\u04403\\cyclemicroscope\\cyclemicroscope.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\cyclemicroscope.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|d:\\desktop\\\u0430\u0440\u0438\u043D\u0430\\\u0433\u0440\u0443\u043F\u043F\u04303_\u043B\u04403\\cyclemicroscope\\cyclemicroscope.app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -136,28 +152,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 36,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.App\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "CycleMicroscope.App\\RelayCommand.cs",
+              "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.App\\RelayCommand.cs",
+              "RelativeToolTip": "CycleMicroscope.App\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:28:39.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnumToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.App\\Converters\\EnumToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "CycleMicroscope.App\\Converters\\EnumToVisibilityConverter.cs",
+              "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.App\\Converters\\EnumToVisibilityConverter.cs*",
+              "RelativeToolTip": "CycleMicroscope.App\\Converters\\EnumToVisibilityConverter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:25:15.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoolToCheckmarkConverter.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.App\\Converters\\BoolToCheckmarkConverter.cs",
+              "RelativeDocumentMoniker": "CycleMicroscope.App\\Converters\\BoolToCheckmarkConverter.cs",
+              "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.App\\Converters\\BoolToCheckmarkConverter.cs*",
+              "RelativeToolTip": "CycleMicroscope.App\\Converters\\BoolToCheckmarkConverter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:24:42.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StepTracker.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Verification\\StepTracker.cs",
+              "RelativeDocumentMoniker": "CycleMicroscope.WP\\Verification\\StepTracker.cs",
+              "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Verification\\StepTracker.cs*",
+              "RelativeToolTip": "CycleMicroscope.WP\\Verification\\StepTracker.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:13:12.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "StepTracker.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Logss\\StepTracker.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Logss\\StepTracker.cs",
-              "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Logss\\StepTracker.cs*",
-              "RelativeToolTip": "CycleMicroscope.WP\\Logss\\StepTracker.cs*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDkAAAA9AAAAAAAAAA==",
+              "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Logss\\StepTracker.cs",
+              "RelativeToolTip": "CycleMicroscope.WP\\Logss\\StepTracker.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T10:05:58.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.App\\App.xaml.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\App.xaml.cs",
@@ -165,24 +237,23 @@
               "RelativeToolTip": "CycleMicroscope.App\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T09:52:02.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T09:52:02.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 1,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.App\\App.xaml",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\App.xaml",
-              "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.App\\App.xaml",
-              "RelativeToolTip": "CycleMicroscope.App\\App.xaml",
+              "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.App\\App.xaml*",
+              "RelativeToolTip": "CycleMicroscope.App\\App.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-12T09:51:55.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "StepTracker.cs",
               "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs",
               "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs",
@@ -191,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "TokenReader.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\TokenReader.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\ParserLogic\\TokenReader.cs",
@@ -199,12 +270,11 @@
               "RelativeToolTip": "CycleMicroscope.WP\\ParserLogic\\TokenReader.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAcwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:48:45.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:48:45.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Token.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\Token.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\ParserLogic\\Token.cs",
@@ -212,8 +282,7 @@
               "RelativeToolTip": "CycleMicroscope.WP\\ParserLogic\\Token.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAUwBkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:48:30.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:48:30.397Z"
             },
             {
               "$type": "Document",
@@ -230,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "Parser.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\Parser.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\ParserLogic\\Parser.cs",
@@ -238,25 +307,24 @@
               "RelativeToolTip": "CycleMicroscope.WP\\ParserLogic\\Parser.cs",
               "ViewState": "AgIAAD0BAAAAAAAAAAAuwGIBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:47:43.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:47:43.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "WpCalculator.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\WpCalculator.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\WpCalculator.cs",
-              "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\WpCalculator.cs",
-              "RelativeToolTip": "CycleMicroscope.WP\\WpCalculator.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowB8AAABQAAAAAAAAAA==",
+              "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\WpCalculator.cs*",
+              "RelativeToolTip": "CycleMicroscope.WP\\WpCalculator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T12:38:30.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "StepTracker.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs",
               "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs",
@@ -266,59 +334,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IfStatement.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\IfStatement.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Statements\\IfStatement.cs",
-              "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\IfStatement.cs",
-              "RelativeToolTip": "CycleMicroscope.WP\\Statements\\IfStatement.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAiwGkAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\IfStatement.cs*",
+              "RelativeToolTip": "CycleMicroscope.WP\\Statements\\IfStatement.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T12:35:06.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Sequence.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Sequence.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Statements\\Sequence.cs",
-              "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Sequence.cs",
-              "RelativeToolTip": "CycleMicroscope.WP\\Statements\\Sequence.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFgAAAAaAAAAAAAAAA==",
+              "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Sequence.cs*",
+              "RelativeToolTip": "CycleMicroscope.WP\\Statements\\Sequence.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T12:34:41.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Assignment.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Assignment.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Statements\\Assignment.cs",
               "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Assignment.cs",
               "RelativeToolTip": "CycleMicroscope.WP\\Statements\\Assignment.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAiwHAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T12:34:20.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Statement.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Statement.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Statements\\Statement.cs",
               "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Statement.cs",
               "RelativeToolTip": "CycleMicroscope.WP\\Statements\\Statement.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T12:34:04.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "UnaryExpression.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\UnaryExpression.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Expressions\\UnaryExpression.cs",
@@ -326,12 +394,11 @@
               "RelativeToolTip": "CycleMicroscope.WP\\Expressions\\UnaryExpression.cs*",
               "ViewState": "AgIAAEEAAAAAAAAAAAAiwGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:33:30.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:33:30.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "BinaryExpression.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\BinaryExpression.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Expressions\\BinaryExpression.cs",
@@ -339,12 +406,11 @@
               "RelativeToolTip": "CycleMicroscope.WP\\Expressions\\BinaryExpression.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAiwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:33:11.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:33:11.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "VariableExpression.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\VariableExpression.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Expressions\\VariableExpression.cs",
@@ -352,12 +418,11 @@
               "RelativeToolTip": "CycleMicroscope.WP\\Expressions\\VariableExpression.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAcwFQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:32:49.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:32:49.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "ConstantExpression.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\ConstantExpression.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Expressions\\ConstantExpression.cs",
@@ -365,12 +430,11 @@
               "RelativeToolTip": "CycleMicroscope.WP\\Expressions\\ConstantExpression.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAcwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:32:29.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:32:29.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Expression.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\Expression.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Expressions\\Expression.cs",
@@ -378,12 +442,11 @@
               "RelativeToolTip": "CycleMicroscope.WP\\Expressions\\Expression.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:32:03.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:32:03.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "PrefixMaxAlgorithm.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\PrefixMaxAlgorithm.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Algorithms\\PrefixMaxAlgorithm.cs",
@@ -391,12 +454,11 @@
               "RelativeToolTip": "CycleMicroscope.Core\\Algorithms\\PrefixMaxAlgorithm.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAqwIAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:25:27.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:25:27.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "CountGreaterThanTAlgorithm.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\CountGreaterThanTAlgorithm.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Algorithms\\CountGreaterThanTAlgorithm.cs",
@@ -404,12 +466,11 @@
               "RelativeToolTip": "CycleMicroscope.Core\\Algorithms\\CountGreaterThanTAlgorithm.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAqwHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:24:51.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:24:51.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "PrefixSumAlgorithm.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\PrefixSumAlgorithm.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Algorithms\\PrefixSumAlgorithm.cs",
@@ -417,12 +478,11 @@
               "RelativeToolTip": "CycleMicroscope.Core\\Algorithms\\PrefixSumAlgorithm.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAmwGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:24:07.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:24:07.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "ArrayGenerator.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.Core\\Services\\ArrayGenerator.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Services\\ArrayGenerator.cs",
@@ -430,12 +490,11 @@
               "RelativeToolTip": "CycleMicroscope.Core\\Services\\ArrayGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:23:13.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:23:13.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "IArrayGenerator.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.Core\\Services\\IArrayGenerator.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Services\\IArrayGenerator.cs",
@@ -443,12 +502,11 @@
               "RelativeToolTip": "CycleMicroscope.Core\\Services\\IArrayGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:22:57.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:22:57.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "VerificationResult.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.Core\\Models\\VerificationResult.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Models\\VerificationResult.cs",
@@ -456,12 +514,11 @@
               "RelativeToolTip": "CycleMicroscope.Core\\Models\\VerificationResult.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:22:06.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:22:06.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "CycleState.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.Core\\Models\\CycleState.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Models\\CycleState.cs",
@@ -469,12 +526,11 @@
               "RelativeToolTip": "CycleMicroscope.Core\\Models\\CycleState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:21:38.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:21:38.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "ICycleAlgorithm.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\ICycleAlgorithm.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Algorithms\\ICycleAlgorithm.cs",
@@ -482,12 +538,11 @@
               "RelativeToolTip": "CycleMicroscope.Core\\Algorithms\\ICycleAlgorithm.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAcwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:17:25.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T12:17:25.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.Core\\Common\\RelayCommand.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Common\\RelayCommand.cs",
@@ -495,12 +550,11 @@
               "RelativeToolTip": "CycleMicroscope.Core\\Common\\RelayCommand.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAiwDQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T08:08:34.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T08:08:34.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "ArrayModel.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.Core\\Models\\ArrayModel.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Models\\ArrayModel.cs",
@@ -508,12 +562,11 @@
               "RelativeToolTip": "CycleMicroscope.Core\\Models\\ArrayModel.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAmwG4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T08:01:21.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T08:01:21.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "ExecutionMode.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.Core\\Enums\\ExecutionMode.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Enums\\ExecutionMode.cs",
@@ -521,12 +574,11 @@
               "RelativeToolTip": "CycleMicroscope.Core\\Enums\\ExecutionMode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T08:01:02.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T08:01:02.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.App\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\MainWindow.xaml",
@@ -538,13 +590,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.App\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\MainWindow.xaml.cs",
               "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.App\\MainWindow.xaml.cs",
               "RelativeToolTip": "CycleMicroscope.App\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T07:57:51.806Z",
               "EditorCaption": ""
