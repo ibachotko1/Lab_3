@@ -4,15 +4,21 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:vm="clr-namespace:CycleMicroscope.App.ViewModels"
+        xmlns:local="clr-namespace:CycleMicroscope.App"
         mc:Ignorable="d"
         Title="Cycle Microscope" Height="700" Width="1100"
         WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <local:EnumToVisibilityConverter x:Key="EnumToVisibilityConverter"/>
+    </Window.Resources>
 
     <Window.DataContext>
         <vm:MainViewModel />
     </Window.DataContext>
 
     <Grid Margin="10">
+        <!-- Остальная разметка без изменений -->
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
