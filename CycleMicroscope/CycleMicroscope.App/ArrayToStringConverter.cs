@@ -1,19 +1,18 @@
 ﻿using System;
 using System.Globalization;
-using System.Windows;
 using System.Windows.Data;
 
 namespace CycleMicroscope.App
 {
-    public class EnumToVisibilityConverter : IValueConverter
+    public class ArrayToStringConverter : IValueConverter
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
-            if (value is string selectedMode && parameter is string requiredMode)
+            if (value is int[] array)
             {
-                return selectedMode == requiredMode ? Visibility.Visible : Visibility.Collapsed;
+                return $"[{string.Join(", ", array)}]";
             }
-            return Visibility.Collapsed;
+            return "[]";
         }
 
         public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)

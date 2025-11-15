@@ -55,8 +55,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="ArrayToStringConverter.cs" />
     <Compile Include="Converters\BoolToCheckmarkConverter.cs" />
     <Compile Include="Converters\EnumToVisibilityConverter.cs" />
+    <Compile Include="ViewModels\ArrayModel.cs" />
+    <Compile Include="ViewModels\CycleState.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />
     <Compile Include="RelayCommand.cs" />
     <Page Include="MainWindow.xaml">
