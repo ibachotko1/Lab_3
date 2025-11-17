@@ -1,162 +1,201 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\",
+  "WorkspaceRootPath": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|c:\\users\\dmitriy\\documents\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.app\\arraytostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\arraytostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|c:\\users\\miron\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.tests\\wp\\parserlogic\\parsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|solutionrelative:cyclemicroscope.tests\\wp\\parserlogic\\parsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\converters\\enumtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\converters\\enumtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\converters\\booltocheckmarkconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\converters\\booltocheckmarkconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|c:\\users\\dmitriy\\documents\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.app\\viewmodels\\cyclestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\viewmodels\\cyclestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|c:\\users\\dmitriy\\documents\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.app\\viewmodels\\arraymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\viewmodels\\arraymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|c:\\users\\dmitriy\\documents\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.app\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|c:\\users\\dmitriy\\documents\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\verification\\steptracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\verification\\steptracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\parserlogic\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\parserlogic\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\wpcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\wpcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\statements\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\statements\\sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\statements\\ifstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\ifstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\statements\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logss\\StepTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CycleMicroscope.WP\\Logss\\StepTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\expressions\\unaryexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\expressions\\unaryexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\expressions\\variableexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\expressions\\variableexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\parserlogic\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\parserlogic\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\parserlogic\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\parserlogic\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|c:\\users\\miron\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.tests\\wp\\parserlogic\\tokenreadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|solutionrelative:cyclemicroscope.tests\\wp\\parserlogic\\tokenreadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|c:\\users\\miron\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.tests\\wp\\expressions\\unaryexpressiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|solutionrelative:cyclemicroscope.tests\\wp\\expressions\\unaryexpressiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|c:\\users\\miron\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.tests\\wp\\expressions\\expressiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|solutionrelative:cyclemicroscope.tests\\wp\\expressions\\expressiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|c:\\users\\miron\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.tests\\cyclemicroscopeintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|solutionrelative:cyclemicroscope.tests\\cyclemicroscopeintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|c:\\users\\miron\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.tests\\cyclemicroscope.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|solutionrelative:cyclemicroscope.tests\\cyclemicroscope.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|c:\\users\\miron\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.tests\\wp\\verification\\steptrackertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|solutionrelative:cyclemicroscope.tests\\wp\\verification\\steptrackertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|c:\\users\\miron\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.tests\\wp\\statements\\assignmenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|solutionrelative:cyclemicroscope.tests\\wp\\statements\\assignmenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|c:\\users\\miron\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.tests\\core\\models\\arraymodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|solutionrelative:cyclemicroscope.tests\\core\\models\\arraymodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|c:\\users\\miron\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.tests\\core\\algorithms\\prefixsumalgorithmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}|CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj|solutionrelative:cyclemicroscope.tests\\core\\algorithms\\prefixsumalgorithmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|c:\\users\\miron\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\lab_3\\cyclemicroscope\\cyclemicroscope.app\\arraytostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\arraytostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\converters\\enumtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\converters\\enumtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\converters\\booltocheckmarkconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\converters\\booltocheckmarkconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\viewmodels\\cyclestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\viewmodels\\cyclestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\viewmodels\\arraymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\viewmodels\\arraymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\verification\\steptracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\verification\\steptracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\parserlogic\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\parserlogic\\tokentype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\wpcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\wpcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\statements\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\statements\\sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\statements\\ifstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\ifstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\statements\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\statements\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logss\\StepTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CycleMicroscope.WP\\Logss\\StepTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\expressions\\unaryexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\expressions\\unaryexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\expressions\\variableexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\expressions\\variableexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\parserlogic\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\parserlogic\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\parserlogic\\tokenreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\parserlogic\\tokenreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\parserlogic\\tokenreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\expressions\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\expressions\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\expressions\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\expressions\\constantexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\expressions\\constantexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\expressions\\constantexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\expressions\\binaryexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.wp\\expressions\\binaryexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}|CycleMicroscope.WP\\CycleMicroscope.WP.csproj|solutionrelative:cyclemicroscope.wp\\expressions\\binaryexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\services\\iarraygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\services\\iarraygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|solutionrelative:cyclemicroscope.core\\services\\iarraygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\services\\arraygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\services\\arraygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|solutionrelative:cyclemicroscope.core\\services\\arraygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\models\\verificationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\models\\verificationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|solutionrelative:cyclemicroscope.core\\models\\verificationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\models\\cyclestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\models\\cyclestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|solutionrelative:cyclemicroscope.core\\models\\cyclestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\models\\arraymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\models\\arraymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|solutionrelative:cyclemicroscope.core\\models\\arraymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\enums\\executionmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\enums\\executionmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|solutionrelative:cyclemicroscope.core\\enums\\executionmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\common\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\common\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|solutionrelative:cyclemicroscope.core\\common\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\algorithms\\prefixsumalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\algorithms\\prefixsumalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|solutionrelative:cyclemicroscope.core\\algorithms\\prefixsumalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\algorithms\\prefixmaxalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\algorithms\\prefixmaxalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|solutionrelative:cyclemicroscope.core\\algorithms\\prefixmaxalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\algorithms\\icyclealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\algorithms\\icyclealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|solutionrelative:cyclemicroscope.core\\algorithms\\icyclealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\algorithms\\countgreaterthantalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.core\\algorithms\\countgreaterthantalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C463A222-E1BF-4EFE-8D83-7EA073163A7D}|CycleMicroscope.Core\\CycleMicroscope.Core.csproj|solutionrelative:cyclemicroscope.core\\algorithms\\countgreaterthantalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\cyclemicroscope.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1E0DBBA-6330-406B-B3F4-CB990EA6A9BE}|CycleMicroscope.App\\CycleMicroscope.App.csproj|solutionrelative:cyclemicroscope.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CycleMicroscope.WP\\Logs\\StepTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -169,15 +208,166 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenReaderTests.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\WP\\ParserLogic\\TokenReaderTests.cs",
+              "RelativeDocumentMoniker": "CycleMicroscope.Tests\\WP\\ParserLogic\\TokenReaderTests.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\WP\\ParserLogic\\TokenReaderTests.cs",
+              "RelativeToolTip": "CycleMicroscope.Tests\\WP\\ParserLogic\\TokenReaderTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:44:44.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnaryExpressionTests.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\WP\\Expressions\\UnaryExpressionTests.cs",
+              "RelativeDocumentMoniker": "CycleMicroscope.Tests\\WP\\Expressions\\UnaryExpressionTests.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\WP\\Expressions\\UnaryExpressionTests.cs",
+              "RelativeToolTip": "CycleMicroscope.Tests\\WP\\Expressions\\UnaryExpressionTests.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:44:22.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CycleMicroscopeIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\CycleMicroscopeIntegrationTests.cs",
+              "RelativeDocumentMoniker": "CycleMicroscope.Tests\\CycleMicroscopeIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\CycleMicroscopeIntegrationTests.cs",
+              "RelativeToolTip": "CycleMicroscope.Tests\\CycleMicroscopeIntegrationTests.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:40:24.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StepTrackerTests.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\WP\\Verification\\StepTrackerTests.cs",
+              "RelativeDocumentMoniker": "CycleMicroscope.Tests\\WP\\Verification\\StepTrackerTests.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\WP\\Verification\\StepTrackerTests.cs",
+              "RelativeToolTip": "CycleMicroscope.Tests\\WP\\Verification\\StepTrackerTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:39:48.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssignmentTests.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\WP\\Statements\\AssignmentTests.cs",
+              "RelativeDocumentMoniker": "CycleMicroscope.Tests\\WP\\Statements\\AssignmentTests.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\WP\\Statements\\AssignmentTests.cs",
+              "RelativeToolTip": "CycleMicroscope.Tests\\WP\\Statements\\AssignmentTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:39:28.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CycleMicroscope.Tests",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj",
+              "RelativeDocumentMoniker": "CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj",
+              "RelativeToolTip": "CycleMicroscope.Tests\\CycleMicroscope.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T16:36:37.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpressionTests.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\WP\\Expressions\\ExpressionTests.cs",
+              "RelativeDocumentMoniker": "CycleMicroscope.Tests\\WP\\Expressions\\ExpressionTests.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\WP\\Expressions\\ExpressionTests.cs",
+              "RelativeToolTip": "CycleMicroscope.Tests\\WP\\Expressions\\ExpressionTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:39:05.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ParserTests.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\WP\\ParserLogic\\ParserTests.cs",
+              "RelativeDocumentMoniker": "CycleMicroscope.Tests\\WP\\ParserLogic\\ParserTests.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\WP\\ParserLogic\\ParserTests.cs",
+              "RelativeToolTip": "CycleMicroscope.Tests\\WP\\ParserLogic\\ParserTests.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:38:45.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\Parser.cs",
+              "RelativeDocumentMoniker": "CycleMicroscope.WP\\ParserLogic\\Parser.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\Parser.cs",
+              "RelativeToolTip": "CycleMicroscope.WP\\ParserLogic\\Parser.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:47:43.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArrayModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\Core\\Models\\ArrayModelTests.cs",
+              "RelativeDocumentMoniker": "CycleMicroscope.Tests\\Core\\Models\\ArrayModelTests.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\Core\\Models\\ArrayModelTests.cs",
+              "RelativeToolTip": "CycleMicroscope.Tests\\Core\\Models\\ArrayModelTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:38:02.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PrefixSumAlgorithmTests.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\Core\\Algorithms\\PrefixSumAlgorithmTests.cs",
+              "RelativeDocumentMoniker": "CycleMicroscope.Tests\\Core\\Algorithms\\PrefixSumAlgorithmTests.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Tests\\Core\\Algorithms\\PrefixSumAlgorithmTests.cs",
+              "RelativeToolTip": "CycleMicroscope.Tests\\Core\\Algorithms\\PrefixSumAlgorithmTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:37:22.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ArrayToStringConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ArrayToStringConverter.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ArrayToStringConverter.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\ArrayToStringConverter.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ArrayToStringConverter.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ArrayToStringConverter.cs",
               "RelativeToolTip": "CycleMicroscope.App\\ArrayToStringConverter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,62 +376,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "CycleState.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ViewModels\\CycleState.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ViewModels\\CycleState.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\ViewModels\\CycleState.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ViewModels\\CycleState.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ViewModels\\CycleState.cs",
               "RelativeToolTip": "CycleMicroscope.App\\ViewModels\\CycleState.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAwwDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T05:57:52.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T05:57:52.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "ArrayModel.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ViewModels\\ArrayModel.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ViewModels\\ArrayModel.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\ViewModels\\ArrayModel.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ViewModels\\ArrayModel.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ViewModels\\ArrayModel.cs",
               "RelativeToolTip": "CycleMicroscope.App\\ViewModels\\ArrayModel.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAADMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T05:57:35.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T05:57:35.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\MainWindow.xaml",
               "RelativeToolTip": "CycleMicroscope.App\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-08T07:57:52.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T07:57:52.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "EnumToVisibilityConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\Converters\\EnumToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\Converters\\EnumToVisibilityConverter.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\Converters\\EnumToVisibilityConverter.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\Converters\\EnumToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\Converters\\EnumToVisibilityConverter.cs",
               "RelativeToolTip": "CycleMicroscope.App\\Converters\\EnumToVisibilityConverter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T06:25:15.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T06:25:15.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "TokenType.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\TokenType.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\TokenType.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\ParserLogic\\TokenType.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\TokenType.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\TokenType.cs",
               "RelativeToolTip": "CycleMicroscope.WP\\ParserLogic\\TokenType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -249,46 +435,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\RelayCommand.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\RelayCommand.cs",
               "RelativeToolTip": "CycleMicroscope.App\\RelayCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T06:28:39.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T06:28:39.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "BoolToCheckmarkConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\Converters\\BoolToCheckmarkConverter.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\Converters\\BoolToCheckmarkConverter.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\Converters\\BoolToCheckmarkConverter.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\Converters\\BoolToCheckmarkConverter.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\Converters\\BoolToCheckmarkConverter.cs",
               "RelativeToolTip": "CycleMicroscope.App\\Converters\\BoolToCheckmarkConverter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T06:24:42.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T06:24:42.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 48,
               "Title": "StepTracker.cs",
               "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs",
-              "RelativeDocumentMoniker": "CycleMicroscope.WP\\Logs\\StepTracker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs",
               "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs",
-              "RelativeToolTip": "CycleMicroscope.WP\\Logs\\StepTracker.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T09:19:03.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "WpCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\WpCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\WpCalculator.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\WpCalculator.cs",
               "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\WpCalculator.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
@@ -297,36 +481,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Parser.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\Parser.cs",
-              "RelativeDocumentMoniker": "CycleMicroscope.WP\\ParserLogic\\Parser.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\Parser.cs",
-              "RelativeToolTip": "CycleMicroscope.WP\\ParserLogic\\Parser.cs",
-              "ViewState": "AgIAAD0BAAAAAAAAAAAuwGIBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T12:47:43.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ViewModels\\MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\ViewModels\\MainViewModel.cs",
               "RelativeToolTip": "CycleMicroscope.App\\ViewModels\\MainViewModel.cs",
               "ViewState": "AgIAAJAAAAAAAAAAAAAUwCIBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T05:44:01.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T05:44:01.879Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "StepTracker.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logss\\StepTracker.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logss\\StepTracker.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Logss\\StepTracker.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logss\\StepTracker.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logss\\StepTracker.cs",
               "RelativeToolTip": "CycleMicroscope.WP\\Logss\\StepTracker.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -334,11 +505,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "Token.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\Token.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\Token.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\ParserLogic\\Token.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\Token.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\Token.cs",
               "RelativeToolTip": "CycleMicroscope.WP\\ParserLogic\\Token.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAUwBkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -346,11 +517,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "TokenReader.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\TokenReader.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\TokenReader.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\ParserLogic\\TokenReader.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\TokenReader.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\ParserLogic\\TokenReader.cs",
               "RelativeToolTip": "CycleMicroscope.WP\\ParserLogic\\TokenReader.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAcwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -358,23 +529,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\App.xaml",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\App.xaml",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\App.xaml",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\App.xaml",
               "RelativeToolTip": "CycleMicroscope.App\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-12T09:51:55.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T09:51:55.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 47,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\App.xaml.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\App.xaml.cs",
               "RelativeToolTip": "CycleMicroscope.App\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -382,9 +552,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "StepTracker.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Verification\\StepTracker.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Verification\\StepTracker.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Verification\\StepTracker.cs",
               "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Verification\\StepTracker.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
@@ -393,21 +563,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 49,
               "Title": "StepTracker.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs",
               "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Logs\\StepTracker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T12:35:55.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "IfStatement.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\IfStatement.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\IfStatement.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Statements\\IfStatement.cs",
               "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\IfStatement.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
@@ -416,9 +586,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "Sequence.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Sequence.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Sequence.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Statements\\Sequence.cs",
               "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Sequence.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
@@ -427,11 +597,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "Assignment.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Assignment.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Statements\\Assignment.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Assignment.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Assignment.cs",
               "RelativeToolTip": "CycleMicroscope.WP\\Statements\\Assignment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -439,11 +609,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "Statement.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Statement.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Statement.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Statements\\Statement.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Statement.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Statements\\Statement.cs",
               "RelativeToolTip": "CycleMicroscope.WP\\Statements\\Statement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -451,9 +621,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "UnaryExpression.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\UnaryExpression.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\UnaryExpression.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Expressions\\UnaryExpression.cs",
               "ToolTip": "D:\\Desktop\\\u0410\u0440\u0438\u043D\u0430\\\u0413\u0440\u0443\u043F\u043F\u04303_\u041B\u04203\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\UnaryExpression.cs*",
               "ViewState": "AgIAAEEAAAAAAAAAAAAiwGMAAAAAAAAAAAAAAA==",
@@ -462,11 +632,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "BinaryExpression.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\BinaryExpression.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\BinaryExpression.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Expressions\\BinaryExpression.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\BinaryExpression.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\BinaryExpression.cs",
               "RelativeToolTip": "CycleMicroscope.WP\\Expressions\\BinaryExpression.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAiwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -474,11 +644,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 30,
               "Title": "VariableExpression.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\VariableExpression.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\VariableExpression.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Expressions\\VariableExpression.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\VariableExpression.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\VariableExpression.cs",
               "RelativeToolTip": "CycleMicroscope.WP\\Expressions\\VariableExpression.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAcwFQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -486,11 +656,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "ConstantExpression.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\ConstantExpression.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\ConstantExpression.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Expressions\\ConstantExpression.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\ConstantExpression.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\ConstantExpression.cs",
               "RelativeToolTip": "CycleMicroscope.WP\\Expressions\\ConstantExpression.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAcwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -498,11 +668,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "Expression.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\Expression.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\Expression.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.WP\\Expressions\\Expression.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\Expression.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.WP\\Expressions\\Expression.cs",
               "RelativeToolTip": "CycleMicroscope.WP\\Expressions\\Expression.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -510,11 +680,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 44,
               "Title": "PrefixMaxAlgorithm.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\PrefixMaxAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\PrefixMaxAlgorithm.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Algorithms\\PrefixMaxAlgorithm.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\PrefixMaxAlgorithm.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\PrefixMaxAlgorithm.cs",
               "RelativeToolTip": "CycleMicroscope.Core\\Algorithms\\PrefixMaxAlgorithm.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAqwIAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -522,11 +692,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 46,
               "Title": "CountGreaterThanTAlgorithm.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\CountGreaterThanTAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\CountGreaterThanTAlgorithm.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Algorithms\\CountGreaterThanTAlgorithm.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\CountGreaterThanTAlgorithm.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\CountGreaterThanTAlgorithm.cs",
               "RelativeToolTip": "CycleMicroscope.Core\\Algorithms\\CountGreaterThanTAlgorithm.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAqwHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -534,11 +704,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 43,
               "Title": "PrefixSumAlgorithm.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\PrefixSumAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\PrefixSumAlgorithm.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Algorithms\\PrefixSumAlgorithm.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\PrefixSumAlgorithm.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\PrefixSumAlgorithm.cs",
               "RelativeToolTip": "CycleMicroscope.Core\\Algorithms\\PrefixSumAlgorithm.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAmwGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -546,11 +716,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 37,
               "Title": "ArrayGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Services\\ArrayGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Services\\ArrayGenerator.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Services\\ArrayGenerator.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Services\\ArrayGenerator.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Services\\ArrayGenerator.cs",
               "RelativeToolTip": "CycleMicroscope.Core\\Services\\ArrayGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -558,11 +728,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 36,
               "Title": "IArrayGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Services\\IArrayGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Services\\IArrayGenerator.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Services\\IArrayGenerator.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Services\\IArrayGenerator.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Services\\IArrayGenerator.cs",
               "RelativeToolTip": "CycleMicroscope.Core\\Services\\IArrayGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -570,11 +740,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 38,
               "Title": "VerificationResult.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Models\\VerificationResult.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Models\\VerificationResult.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Models\\VerificationResult.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Models\\VerificationResult.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Models\\VerificationResult.cs",
               "RelativeToolTip": "CycleMicroscope.Core\\Models\\VerificationResult.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -582,11 +752,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 39,
               "Title": "CycleState.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Models\\CycleState.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Models\\CycleState.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Models\\CycleState.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Models\\CycleState.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Models\\CycleState.cs",
               "RelativeToolTip": "CycleMicroscope.Core\\Models\\CycleState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -594,11 +764,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 45,
               "Title": "ICycleAlgorithm.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\ICycleAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\ICycleAlgorithm.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Algorithms\\ICycleAlgorithm.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\ICycleAlgorithm.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Algorithms\\ICycleAlgorithm.cs",
               "RelativeToolTip": "CycleMicroscope.Core\\Algorithms\\ICycleAlgorithm.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAcwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -606,11 +776,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 42,
               "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Common\\RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Common\\RelayCommand.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Common\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Common\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Common\\RelayCommand.cs",
               "RelativeToolTip": "CycleMicroscope.Core\\Common\\RelayCommand.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAiwDQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -618,11 +788,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 40,
               "Title": "ArrayModel.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Models\\ArrayModel.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Models\\ArrayModel.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Models\\ArrayModel.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Models\\ArrayModel.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Models\\ArrayModel.cs",
               "RelativeToolTip": "CycleMicroscope.Core\\Models\\ArrayModel.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAmwG4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -630,11 +800,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 41,
               "Title": "ExecutionMode.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Enums\\ExecutionMode.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Enums\\ExecutionMode.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.Core\\Enums\\ExecutionMode.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Enums\\ExecutionMode.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.Core\\Enums\\ExecutionMode.cs",
               "RelativeToolTip": "CycleMicroscope.Core\\Enums\\ExecutionMode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -642,11 +812,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "CycleMicroscope.App\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\Documents\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\miron\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Lab_3\\CycleMicroscope\\CycleMicroscope.App\\MainWindow.xaml.cs",
               "RelativeToolTip": "CycleMicroscope.App\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

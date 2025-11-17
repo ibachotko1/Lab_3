@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CycleMicroscope.App", "Cycl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CycleMicroscope.WP", "CycleMicroscope.WP\CycleMicroscope.WP.csproj", "{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CycleMicroscope.Tests", "CycleMicroscope.Tests\CycleMicroscope.Tests.csproj", "{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{377E1FB8-E9FE-46FD-84BB-9EC52DB15F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AF66D2-9BC6-4FFB-B4A3-98ED5B575AA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
