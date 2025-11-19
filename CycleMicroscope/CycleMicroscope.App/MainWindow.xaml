@@ -6,115 +6,141 @@
         xmlns:vm="clr-namespace:CycleMicroscope.App.ViewModels"
         xmlns:local="clr-namespace:CycleMicroscope.App"
         mc:Ignorable="d"
-        Title="Cycle Microscope" Height="700" Width="1100"
+        Title="Cycle Microscope" Height="600" Width="1000"
         WindowStartupLocation="CenterScreen">
 
     <Window.Resources>
         <local:EnumToVisibilityConverter x:Key="EnumToVisibilityConverter"/>
         <local:ArrayToStringConverter x:Key="ArrayToStringConverter"/>
+        <Style x:Key="CompactStackPanel" TargetType="StackPanel">
+            <Setter Property="Margin" Value="0,2"/>
+        </Style>
+        <Style x:Key="CompactGroupBox" TargetType="GroupBox">
+            <Setter Property="Margin" Value="2"/>
+            <Setter Property="Padding" Value="5"/>
+        </Style>
     </Window.Resources>
 
     <Window.DataContext>
         <vm:MainViewModel />
     </Window.DataContext>
 
-    <Grid Margin="10">
+    <Grid Margin="5">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <!-- Управление -->
-        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="0,0,0,10">
-            <TextBlock Text="Алгоритм:" FontWeight="Bold" VerticalAlignment="Center" Margin="0,0,10,0"/>
-            <ComboBox SelectedItem="{Binding SelectedMode}" MinWidth="180">
+        <!-- Компактная панель управления -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="0,0,0,5">
+            <TextBlock Text="Алгоритм:" FontWeight="Bold" VerticalAlignment="Center" Margin="0,0,5,0"/>
+            <ComboBox SelectedItem="{Binding SelectedMode}" MinWidth="120" Height="25">
                 <ComboBoxItem Content="PrefixSum"/>
                 <ComboBoxItem Content="CountGreaterThanT"/>
                 <ComboBoxItem Content="PrefixMax"/>
             </ComboBox>
 
-            <Button Content="Сгенерировать" Command="{Binding GenerateArrayCommand}" Margin="10,0" Padding="8,4"/>
-            <Button Content="Инициализировать" Command="{Binding InitializeCommand}" Margin="5,0" Padding="8,4"/>
-            <Button Content="Шаг" Command="{Binding StepCommand}" Margin="5,0" Padding="8,4"/>
-            <Button Content="Всё" Command="{Binding RunAllCommand}" Margin="5,0" Padding="8,4"/>
+            <Button Content="Сгенерировать" Command="{Binding GenerateArrayCommand}" 
+                    Margin="8,0" Padding="6,2" Height="25" ToolTip="Создать новый массив"/>
+            <Button Content="Инициализировать" Command="{Binding InitializeCommand}" 
+                    Margin="5,0" Padding="6,2" Height="25" ToolTip="Подготовить алгоритм"/>
+            <Button Content="Шаг" Command="{Binding StepCommand}" 
+                    Margin="5,0" Padding="6,2" Height="25" ToolTip="Выполнить один шаг"/>
+            <Button Content="Всё" Command="{Binding RunAllCommand}" 
+                    Margin="5,0" Padding="6,2" Height="25" ToolTip="Выполнить все шаги"/>
+            <Button Content="Справка" Click="HelpButton_Click" 
+                    Margin="5,0" Padding="6,2" Height="25" ToolTip="Открыть справку"/>
         </StackPanel>
 
-        <!-- Основное -->
+        <!-- Основное содержимое -->
         <Grid Grid.Row="1">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
 
-            <!-- Лево -->
-            <GroupBox Header="Параметры" Grid.Column="0" Margin="0,0,5,0">
-                <StackPanel Margin="10">
-                    <StackPanel Orientation="Horizontal" Margin="0,5">
-                        <TextBlock Text="Размер:" Width="60"/>
-                        <TextBox Text="{Binding ArrayModel.Size, UpdateSourceTrigger=PropertyChanged}" Width="60"/>
+            <!-- Левая панель - Параметры -->
+            <GroupBox Header="Параметры" Grid.Column="0" Style="{StaticResource CompactGroupBox}">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal" Style="{StaticResource CompactStackPanel}">
+                        <TextBlock Text="Размер:" Width="50" VerticalAlignment="Center"/>
+                        <TextBox Text="{Binding ArrayModel.Size, UpdateSourceTrigger=PropertyChanged}" 
+                                 Width="40" Height="20"/>
                     </StackPanel>
-                    <StackPanel Orientation="Horizontal" Margin="0,5">
-                        <TextBlock Text="Min:" Width="60"/>
-                        <TextBox Text="{Binding ArrayModel.MinValue, UpdateSourceTrigger=PropertyChanged}" Width="60"/>
+                    <StackPanel Orientation="Horizontal" Style="{StaticResource CompactStackPanel}">
+                        <TextBlock Text="Min:" Width="50" VerticalAlignment="Center"/>
+                        <TextBox Text="{Binding ArrayModel.MinValue, UpdateSourceTrigger=PropertyChanged}" 
+                                 Width="40" Height="20"/>
                     </StackPanel>
-                    <StackPanel Orientation="Horizontal" Margin="0,5">
-                        <TextBlock Text="Max:" Width="60"/>
-                        <TextBox Text="{Binding ArrayModel.MaxValue, UpdateSourceTrigger=PropertyChanged}" Width="60"/>
+                    <StackPanel Orientation="Horizontal" Style="{StaticResource CompactStackPanel}">
+                        <TextBlock Text="Max:" Width="50" VerticalAlignment="Center"/>
+                        <TextBox Text="{Binding ArrayModel.MaxValue, UpdateSourceTrigger=PropertyChanged}" 
+                                 Width="40" Height="20"/>
                     </StackPanel>
 
-                    <!-- Порог T — только для Count > T -->
-                    <StackPanel Orientation="Horizontal" Margin="0,5" 
+                    <!-- Порог T (только для CountGreaterThanT) -->
+                    <StackPanel Orientation="Horizontal" Style="{StaticResource CompactStackPanel}"
                                 Visibility="{Binding SelectedMode, Converter={StaticResource EnumToVisibilityConverter}, ConverterParameter=CountGreaterThanT}">
-                        <TextBlock Text="Порог T:" Width="60"/>
-                        <TextBox Text="{Binding ArrayModel.Threshold, UpdateSourceTrigger=PropertyChanged}" Width="60"/>
+                        <TextBlock Text="Порог T:" Width="50" VerticalAlignment="Center"/>
+                        <TextBox Text="{Binding ArrayModel.Threshold, UpdateSourceTrigger=PropertyChanged}" 
+                                 Width="40" Height="20"/>
                     </StackPanel>
 
-                    <Separator Margin="0,15"/>
+                    <Separator Margin="0,8"/>
 
-                    <TextBlock Text="{Binding AlgorithmName}" FontWeight="Bold" Margin="0,10"/>
-                    <TextBlock Text="{Binding AlgorithmDescription}" TextWrapping="Wrap"/>
-                    <TextBlock Text="Инвариант:" FontWeight="Bold" Margin="0,10,0,2"/>
-                    <TextBlock Text="{Binding AlgorithmInvariantWords}" TextWrapping="Wrap" FontStyle="Italic"/>
-                    <TextBlock Text="{Binding AlgorithmInvariantFormula}" TextWrapping="Wrap" FontFamily="Consolas"/>
+                    <!-- Информация об алгоритме -->
+                    <TextBlock Text="{Binding AlgorithmName}" FontWeight="Bold" Margin="0,2"/>
+                    <TextBlock Text="{Binding AlgorithmDescription}" TextWrapping="Wrap" FontSize="11" Margin="0,2"/>
 
-                    <Separator Margin="0,15"/>
+                    <TextBlock Text="Инвариант:" FontWeight="SemiBold" Margin="0,5,0,2"/>
+                    <TextBlock Text="{Binding AlgorithmInvariantWords}" TextWrapping="Wrap" 
+                               FontStyle="Italic" FontSize="10" Margin="0,1"/>
+                    <TextBlock Text="{Binding AlgorithmInvariantFormula}" TextWrapping="Wrap" 
+                               FontFamily="Consolas" FontSize="10" Margin="0,1"/>
 
-                    <TextBlock Text="Массив:" FontWeight="Bold" Margin="0,10,0,5"/>
-                    <TextBlock Text="{Binding ArrayModel.Array, Converter={StaticResource ArrayToStringConverter}}" 
-                               TextWrapping="Wrap" 
-                               Background="#F5F5F5" 
-                               Padding="5"
-                               FontFamily="Consolas" FontSize="12"/>
+                    <Separator Margin="0,8"/>
+
+                    <!-- Массив -->
+                    <TextBlock Text="Массив:" FontWeight="SemiBold" Margin="0,2"/>
+                    <Border Background="#F5F5F5" BorderBrush="#DDD" BorderThickness="1" Padding="3" Margin="0,2">
+                        <TextBlock Text="{Binding ArrayModel.Array, Converter={StaticResource ArrayToStringConverter}}" 
+                                   TextWrapping="Wrap" FontFamily="Consolas" FontSize="10"/>
+                    </Border>
                 </StackPanel>
             </GroupBox>
 
-            <!-- Право -->
-            <GroupBox Header="Состояние" Grid.Column="1" Margin="5,0,0,0">
-                <StackPanel Margin="10">
-                    <StackPanel Orientation="Horizontal" Margin="0,5">
-                        <TextBlock Text="j =" Width="50"/>
-                        <TextBlock Text="{Binding CycleState.J}" FontWeight="Bold"/>
+            <!-- Правая панель - Состояние -->
+            <GroupBox Header="Состояние выполнения" Grid.Column="1" Style="{StaticResource CompactGroupBox}">
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal" Style="{StaticResource CompactStackPanel}">
+                        <TextBlock Text="j =" Width="30" VerticalAlignment="Center"/>
+                        <TextBlock Text="{Binding CycleState.J}" FontWeight="Bold" VerticalAlignment="Center"/>
                     </StackPanel>
-                    <StackPanel Orientation="Horizontal" Margin="0,5">
-                        <TextBlock Text="res =" Width="50"/>
-                        <TextBlock Text="{Binding CycleState.Res, Converter={StaticResource ArrayToStringConverter}}" FontWeight="Bold" TextWrapping="Wrap"/>
+                    <StackPanel Orientation="Horizontal" Style="{StaticResource CompactStackPanel}">
+                        <TextBlock Text="res =" Width="30" VerticalAlignment="Center"/>
+                        <TextBlock Text="{Binding CycleState.Res, Converter={StaticResource ArrayToStringConverter}}" 
+                                   FontWeight="Bold" TextWrapping="Wrap" VerticalAlignment="Center"/>
                     </StackPanel>
-                    <StackPanel Orientation="Horizontal" Margin="0,5">
-                        <TextBlock Text="Variant =" Width="70"/>
-                        <TextBlock Text="{Binding CycleState.VariantFunction}" FontWeight="Bold"/>
+                    <StackPanel Orientation="Horizontal" Style="{StaticResource CompactStackPanel}">
+                        <TextBlock Text="Variant =" Width="50" VerticalAlignment="Center"/>
+                        <TextBlock Text="{Binding CycleState.VariantFunction}" FontWeight="Bold" VerticalAlignment="Center"/>
                     </StackPanel>
 
-                    <StackPanel Orientation="Horizontal" Margin="0,10">
-                        <TextBlock Text="Инвариант до:" Width="100"/>
+                    <Separator Margin="0,8"/>
+
+                    <!-- Статусы верификации -->
+                    <StackPanel Orientation="Horizontal" Style="{StaticResource CompactStackPanel}">
+                        <TextBlock Text="Инвариант до:" Width="80" VerticalAlignment="Center"/>
                         <TextBlock>
                             <TextBlock.Style>
                                 <Style TargetType="TextBlock">
-                                    <Setter Property="Text" Value="✓"/>
+                                    <Setter Property="Text" Value="✓ ВЫПОЛНЕН"/>
                                     <Setter Property="Foreground" Value="Green"/>
+                                    <Setter Property="FontWeight" Value="SemiBold"/>
                                     <Style.Triggers>
                                         <DataTrigger Binding="{Binding CycleState.IsInvariantHeldBefore}" Value="False">
-                                            <Setter Property="Text" Value="✗"/>
+                                            <Setter Property="Text" Value="✗ НАРУШЕН"/>
                                             <Setter Property="Foreground" Value="Red"/>
                                         </DataTrigger>
                                     </Style.Triggers>
@@ -123,16 +149,17 @@
                         </TextBlock>
                     </StackPanel>
 
-                    <StackPanel Orientation="Horizontal" Margin="0,5">
-                        <TextBlock Text="Инвариант после:" Width="100"/>
+                    <StackPanel Orientation="Horizontal" Style="{StaticResource CompactStackPanel}">
+                        <TextBlock Text="Инвариант после:" Width="80" VerticalAlignment="Center"/>
                         <TextBlock>
                             <TextBlock.Style>
                                 <Style TargetType="TextBlock">
-                                    <Setter Property="Text" Value="✓"/>
+                                    <Setter Property="Text" Value="✓ ВЫПОЛНЕН"/>
                                     <Setter Property="Foreground" Value="Green"/>
+                                    <Setter Property="FontWeight" Value="SemiBold"/>
                                     <Style.Triggers>
                                         <DataTrigger Binding="{Binding CycleState.IsInvariantHeldAfter}" Value="False">
-                                            <Setter Property="Text" Value="✗"/>
+                                            <Setter Property="Text" Value="✗ НАРУШЕН"/>
                                             <Setter Property="Foreground" Value="Red"/>
                                         </DataTrigger>
                                     </Style.Triggers>
@@ -141,16 +168,17 @@
                         </TextBlock>
                     </StackPanel>
 
-                    <StackPanel Orientation="Horizontal" Margin="0,5">
-                        <TextBlock Text="Завершён:" Width="100"/>
+                    <StackPanel Orientation="Horizontal" Style="{StaticResource CompactStackPanel}">
+                        <TextBlock Text="Завершён:" Width="80" VerticalAlignment="Center"/>
                         <TextBlock>
                             <TextBlock.Style>
                                 <Style TargetType="TextBlock">
-                                    <Setter Property="Text" Value="✓"/>
+                                    <Setter Property="Text" Value="✓ ДА"/>
                                     <Setter Property="Foreground" Value="Green"/>
+                                    <Setter Property="FontWeight" Value="SemiBold"/>
                                     <Style.Triggers>
                                         <DataTrigger Binding="{Binding CycleState.IsCompleted}" Value="False">
-                                            <Setter Property="Text" Value="✗"/>
+                                            <Setter Property="Text" Value="✗ НЕТ"/>
                                             <Setter Property="Foreground" Value="Gray"/>
                                         </DataTrigger>
                                     </Style.Triggers>
@@ -163,8 +191,8 @@
         </Grid>
 
         <!-- Результат -->
-        <GroupBox Header="Результат" Grid.Row="2" Margin="0,10,0,0">
-            <TextBlock Text="{Binding WPResult}" TextWrapping="Wrap" FontWeight="SemiBold" Margin="10"/>
+        <GroupBox Header="Результат выполнения" Grid.Row="2" Style="{StaticResource CompactGroupBox}">
+            <TextBlock Text="{Binding WPResult}" TextWrapping="Wrap" FontWeight="SemiBold" Margin="2"/>
         </GroupBox>
     </Grid>
 </Window>

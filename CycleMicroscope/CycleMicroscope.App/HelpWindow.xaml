@@ -56,8 +56,7 @@
                     </StackPanel>
                 </ScrollViewer>
             </TabItem>
-            
-            
+
             <TabItem Header="Верификация">
                 <ScrollViewer VerticalScrollBarVisibility="Auto">
                     <StackPanel Margin="5">
@@ -67,15 +66,9 @@
                         <TextBlock Text="• Вариант - гарантирует завершение цикла" Margin="10,0,0,10"/>
 
                         <TextBlock Text="Условия Hoare:" FontWeight="Bold" Margin="0,0,0,5"/>
-                        <TextBlock Margin="10,0,0,2">
-                <Run Text="{}{Pre} → [Init] Inv"/>
-                        </TextBlock>
-                        <TextBlock Margin="10,0,0,2">
-                <Run Text="{}{Inv ∧ Condition} → [Body] Inv"/>
-                        </TextBlock>
-                        <TextBlock Margin="10,0,0,10">
-                <Run Text="{}{Inv ∧ ¬Condition} → {Post}"/>
-                        </TextBlock>
+                        <TextBlock Text="{}{Pre} → [Init] Inv" Margin="10,0,0,2"/>
+                        <TextBlock Text="{}{Inv ∧ Condition} → [Body] Inv" Margin="10,0,0,2"/>
+                        <TextBlock Text="{}{Inv ∧ ¬Condition} → {Post}" Margin="10,0,0,10"/>
 
                         <TextBlock Text="Статусы выполнения:" FontWeight="Bold" Margin="0,0,0,5"/>
                         <TextBlock Text="✓ - условие выполняется" Foreground="Green" Margin="10,0,0,2"/>
@@ -83,7 +76,6 @@
                     </StackPanel>
                 </ScrollViewer>
             </TabItem>
-            
         </TabControl>
 
         <!-- Кнопка закрытия -->

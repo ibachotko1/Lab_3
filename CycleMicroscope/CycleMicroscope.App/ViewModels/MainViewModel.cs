@@ -289,16 +289,116 @@ namespace CycleMicroscope.App.ViewModels
 
         private bool CheckInvariantBefore(int j)
         {
-            // Базовая проверка - всегда true для простоты
-            // В реальной реализации здесь должна быть проверка инварианта алгоритма
-            return true;
+            try
+            {
+                var array = ArrayModel.Array;
+
+                switch (SelectedMode)
+                {
+                    case "PrefixSum":
+                        // Для j=0 res[0] должен равняться array[0]
+                        if (j == 0)
+                            return CycleState.Res.Length > 0 && CycleState.Res[0] == array[0];
+
+                        // Для j>0 res[j-1] должен быть суммой элементов от 0 до j-1
+                        if (j > 0 && j < CycleState.Res.Length)
+                        {
+                            int expectedSum = 0;
+                            for (int i = 0; i < j; i++)
+                                expectedSum += array[i];
+
+                            return CycleState.Res[j - 1] == expectedSum;
+                        }
+                        break;
+
+                    case "CountGreaterThanT":
+                        // res[0] должен быть количеством элементов > T от 0 до j-1
+                        int expectedCount = 0;
+                        for (int i = 0; i < j; i++)
+                        {
+                            if (array[i] > ArrayModel.Threshold)
+                                expectedCount++;
+                        }
+                        return CycleState.Res[0] == expectedCount;
+
+                    case "PrefixMax":
+                        // Для j=0 res[0] должен равняться array[0]
+                        if (j == 0)
+                            return CycleState.Res.Length > 0 && CycleState.Res[0] == array[0];
+
+                        // Для j>0 res[j-1] должен быть максимумом от 0 до j-1
+                        if (j > 0 && j < CycleState.Res.Length)
+                        {
+                            int expectedMax = array[0];
+                            for (int i = 1; i < j; i++)
+                            {
+                                if (array[i] > expectedMax)
+                                    expectedMax = array[i];
+                            }
+                            return CycleState.Res[j - 1] == expectedMax;
+                        }
+                        break;
+                }
+
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
 
         private bool CheckInvariantAfter(int j)
         {
-            // Базовая проверка - всегда true для простоты
-            // В реальной реализации здесь должна быть проверка инварианта алгоритма
-            return true;
+            try
+            {
+                var array = ArrayModel.Array;
+
+                switch (SelectedMode)
+                {
+                    case "PrefixSum":
+                        // res[j] должен быть суммой элементов от 0 до j
+                        if (j < CycleState.Res.Length)
+                        {
+                            int expectedSum = 0;
+                            for (int i = 0; i <= j; i++)
+                                expectedSum += array[i];
+
+                            return CycleState.Res[j] == expectedSum;
+                        }
+                        break;
+
+                    case "CountGreaterThanT":
+                        // res[0] должен быть количеством элементов > T от 0 до j
+                        int expectedCount = 0;
+                        for (int i = 0; i <= j; i++)
+                        {
+                            if (array[i] > ArrayModel.Threshold)
+                                expectedCount++;
+                        }
+                        return CycleState.Res[0] == expectedCount;
+
+                    case "PrefixMax":
+                        // res[j] должен быть максимумом от 0 до j
+                        if (j < CycleState.Res.Length)
+                        {
+                            int expectedMax = array[0];
+                            for (int i = 1; i <= j; i++)
+                            {
+                                if (array[i] > expectedMax)
+                                    expectedMax = array[i];
+                            }
+                            return CycleState.Res[j] == expectedMax;
+                        }
+                        break;
+                }
+
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
         }
 
         public event PropertyChangedEventHandler PropertyChanged;

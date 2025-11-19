@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace CycleMicroscope.App.ViewModels
+namespace CycleMicroscope.App
 {
     public class RelayCommand : ICommand
     {
@@ -14,6 +14,12 @@ namespace CycleMicroscope.App.ViewModels
             _canExecute = canExecute;
         }
 
+        public event EventHandler CanExecuteChanged
+        {
+            add { CommandManager.RequerySuggested += value; }
+            remove { CommandManager.RequerySuggested -= value; }
+        }
+
         public bool CanExecute(object parameter)
         {
             return _canExecute == null || _canExecute();
@@ -22,12 +28,6 @@ namespace CycleMicroscope.App.ViewModels
         public void Execute(object parameter)
         {
             _execute();
-        }
-
-        public event EventHandler CanExecuteChanged
-        {
-            add { CommandManager.RequerySuggested += value; }
-            remove { CommandManager.RequerySuggested -= value; }
         }
     }
 }
